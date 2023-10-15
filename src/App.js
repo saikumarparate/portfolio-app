@@ -1,12 +1,17 @@
 import React from 'react';
 import './App.css';
+import { TemplateLean } from '@allamgr/portafolio'
+import jsonData from './components/app.json';
 
 function App() {
 
+  let json = JSON.stringify(jsonData);
   return (
-    <div>
-      <h1>portfolio app</h1>
-    </div>
+    <main>
+      <div className="App container">
+        <TemplateLean json={json} />
+      </div>
+    </main>
   );
 }
 

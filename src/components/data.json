@@ -1,0 +1,82 @@
+{
+    "personalInfo": {
+       "name": "👨‍💻 Saikumar Parate",
+       "position": "Software Developer",
+       "brief": "Experienced Software Developer with more than 4 years involved in all phases of software development - from concept to delivery. I love to learn new stuff and build great apps for the customers.",
+       "email": "saikumarparate",
+       "emailDomain": "gmail.com",
+       "location": "Hyderabad,India.",
+       "gender": "Male",
+       "github": "saikumarparate"
+    },
+    "educationInfo": {
+       "data": [
+          {
+             "school": {
+                "name": "Guru Nanak Institute Of Engineering And Technology",
+                "logoUrl": "https://www.gnuindia.org/images/GNU-logo.png",
+                "acronym": "GNIET",
+                "location": "Ibrahimpatnam, R. R. District,Hyderabad – 501506 T.S.,India.",
+                "url": "https://www.gnuindia.org/index.php"
+             },
+             "degree": "Computer Science And Engineering",
+             "startYear": 2011,
+             "endYear": 2016
+          }
+       ]
+    },
+    "workExperience": {
+       "data": [
+          {
+             "company": {
+                "name": "Unifocus",
+                "logoUrl": "https://www.unifocus.com/hs-fs/hubfs/unifocus-logo.webp?width=3666&height=999&name=unifocus-logo.webp",
+                "url": "https://www.unifocus.com"
+             },
+             "title": "Campaign Manager",
+             "startYear": 2020,
+             "endYear": 2021,
+             "startMonth": 2,
+             "current": false,
+             "description": "Campaign Manager app helps property managers/admins to create a surveys for their employees to get the valuable feedback and improve the work envirnoment and ultimately better experience for the guests,track the survey statastics and many other features to manage entire survey period."
+          }
+       ]
+    },
+    "skillsAndTech": {
+       "technologies": [
+          {
+             "name": "Javascript",
+             "level": "advanced"
+          },
+          {
+             "name": "CSS",
+             "level": "intermediate"
+          },
+          {
+             "name": "React",
+             "level": "intermediate"
+          },
+          {
+             "name": "SQL",
+             "level": "intermediate"
+          },
+          {
+             "name": "Java",
+             "level": "advanced"
+          },
+          {
+             "name": "Typescript",
+             "level": "b"
+          },
+          {
+            "name":"Html",
+            "level":"advanced"
+          },
+          {
+            "name":"Redux",
+            "level":"intermediate"
+          }
+       ]
+    }
+ }
+ 
